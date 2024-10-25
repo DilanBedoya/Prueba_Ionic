@@ -1,0 +1,23 @@
+.content-container {
+    text-align: center;
+    padding: 20px;
+
+}
+
+.tab-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20%;
+}
+
+.github-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.github-link:hover {
+    text-decoration: underline;
+}
