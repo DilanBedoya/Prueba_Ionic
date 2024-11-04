@@ -5,7 +5,13 @@ Esta es una aplicación móvil desarrollada en **Ionic** que presenta varias fun
 ### Splash Screen e Ícono de la Aplicación
 El **ícono** de la aplicación está personalizado para proporcionar una apariencia única cuando la aplicación está instalada en el dispositivo.
 
+![icono](https://github.com/user-attachments/assets/238dce38-0ac0-494e-9420-0263df910b10)
+
+
 Al abrir la aplicación, los usuarios verán un **splash screen** diseñado para crear una primera impresión atractiva, este splash screen contiene una imagen representativa de la aplicación, destacando su identidad visual.
+
+![splash](https://github.com/user-attachments/assets/05b5a405-f586-408d-a077-19ca2dcea304)
+
 
 ### 1. Descripción Biográfica del Autor
 - Esta pestaña proporciona una **descripción biográfica** del autor, utilizando 15 componentes de Ionic.
