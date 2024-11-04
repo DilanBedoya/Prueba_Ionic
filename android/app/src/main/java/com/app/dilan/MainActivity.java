@@ -1,4 +1,4 @@
-package io.ionic.starter;
+package com.app.dilan;
 
 import com.getcapacitor.BridgeActivity;
 

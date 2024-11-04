@@ -2,6 +2,11 @@
 
 Esta es una aplicación móvil desarrollada en **Ionic** que presenta varias funcionalidades a través de una interfaz intuitiva. La aplicación cuenta con cuatro pestañas principales, cada una diseñada para ofrecer una experiencia única y útil al usuario.
 
+### Splash Screen e Ícono de la Aplicación
+El **ícono** de la aplicación está personalizado para proporcionar una apariencia única cuando la aplicación está instalada en el dispositivo.
+
+Al abrir la aplicación, los usuarios verán un **splash screen** diseñado para crear una primera impresión atractiva, este splash screen contiene una imagen representativa de la aplicación, destacando su identidad visual.
+
 ### 1. Descripción Biográfica del Autor
 - Esta pestaña proporciona una **descripción biográfica** del autor, utilizando 15 componentes de Ionic.
 - Incluye detalles sobre cualidades, habilidades, estudios y otros datos relevantes, ofreciendo una visión completa de la trayectoria del autor.
@@ -34,4 +39,4 @@ Esta es una aplicación móvil desarrollada en **Ionic** que presenta varias fun
 
 
 
-
+
